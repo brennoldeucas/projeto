@@ -117,14 +117,16 @@ main p {
 }
 
 #consideraçoes {
-    width: 1000px;
     margin: auto;
+    width: 70%;
+
     
 }
 
 #consideraçoes > p {
     background-color: #FFCB9A;
     font-size: 1.2em;
+    
 }
 
 h2{
@@ -138,6 +140,7 @@ h2{
     font-weight: bolder;
     color: var(--cor5);
     margin-top: 10px;
+    
 
 }
 
